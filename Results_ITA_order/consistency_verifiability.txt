@@ -1,0 +1,2 @@
+Found 67 consistent preds in dev (versus 19 verifiable)
+Found 2 consistent preds in test (versus 1 verifiable)
