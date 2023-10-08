@@ -1,15 +1,3 @@
 # GITAdataset
-Shared repository for GITA dataset: a Graded ITalian Annotated dataset for the evaluation of Physical Commonsense Understanding.
-
-## Cite
-If you use our code or models in your work, please cite one of our following papers from Findings of EMNLP 2021:
-```
-  @misc{storks2021tiered,
-        title={Tiered Reasoning for Intuitive Physics: Toward Verifiable Commonsense Language Understanding}, 
-        author={Shane Storks and Qiaozi Gao and Yichi Zhang and Joyce Chai},
-        year={2021},
-        booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},
-        location={Punta Cana, Dominican Republic},
-        publisher={Association for Computational Linguistics},
-  }
-```
+This is the anonymous repository for GITA dataset: a Graded ITalian Annotated dataset for the evaluation of Physical Commonsense Understanding.
+In the file GITA_test.json you can find the complete and annotated GITA dataset. GITA.xlsx is the spreadsheet of all out stories with only the first level of annotation (TRUE/FALS). In the folders, there are the the results of our experiment.
